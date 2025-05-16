@@ -9,7 +9,7 @@
 ---
 
 ### 🧰 Tech Stack
-React · JavaScript · Redux · Firebase · Material UI · Git · HTML · CSS · REST APIs
+React · JavaScript · TypeScript · Redux · Firebase · Material UI · Git · HTML · CSS · REST APIs
 
 ---
 
