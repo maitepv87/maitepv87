@@ -2,7 +2,7 @@
 
 💻 Frontend Developer specialized in React.js  
 🌎 Based in Miami, Florida | Originally from Havana, Cuba  
-📌 6+ years of experience building web applications  
+📌 Software engineer since 2010, with the last 6+ years specializing in React and frontend development. 
 🎨 Passionate about clean UI, user experience, and responsive design  
 🚀 Currently building my portfolio and exploring new techs  
 
