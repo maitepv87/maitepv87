@@ -1,22 +1,17 @@
-## Hi there, I'm Maité 👋
+# Maité Pérez Vento  
 
-💻 Frontend Developer specialized in React.js  
-🌎 Based in Miami, Florida | Originally from Havana, Cuba  
-📌 Software engineer since 2010, with the last 6+ years specializing in React and frontend development. 
-🎨 Passionate about clean UI, user experience, and responsive design  
-🚀 Currently building my portfolio and exploring new techs  
+## About Me  
+Frontend Developer specialized in React.js, with a strong focus on performance, scalability, and responsive UI design. Based in Miami, Florida, originally from Havana, Cuba.  
 
----
+Software engineer since 2010, with the last 6+ years specializing in React and modern frontend development. Passionate about clean code, user experience, and accessibility. Currently refining my portfolio and exploring new technologies.  
 
-### 🧰 Tech Stack
-React · JavaScript · TypeScript · Redux · Firebase · Material UI · Git · HTML · CSS · REST APIs
+## Tech Stack  
+React · JavaScript · TypeScript · Redux · Firebase · Material UI · Git · HTML · CSS · REST APIs  
 
----
+## Contact  
+- Email: maitepv87@gmail.com  
+- LinkedIn: [Maité Pérez Vento](https://www.linkedin.com/in/maite-perez-vento)  
 
-📫 You can reach me at:  
-- 📧 Email: maitepv87@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/maite-perez-vento)
+## GitHub Stats  
+![Maité's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitepv87&show_icons=true&theme=tokyonight)  
 
----
-
-![Maité's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitepv87&show_icons=true&theme=tokyonight)
