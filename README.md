@@ -1,18 +1,25 @@
-## Hi there, I'm Maité 👋  
+## 👋 Hi, I'm Maité
 
-- Frontend Developer specialized in React.js  
-- Based in Miami, Florida | Originally from Havana, Cuba  
-- Software engineer since 2010, with the last 6+ years focusing on React and modern frontend development  
-- Passionate about clean UI, user experience, and accessibility  
-- Committed to scalable architecture and performance optimization  
-- Currently refining my portfolio and exploring new technologies  
+I'm a Frontend Developer focused on building clean, accessible, and modern user interfaces with React and scalable architecture.  
+Based in Miami, originally from Havana Cuba, with over 7 years of experience in modern frontend development and a background in software engineering since 2010.
 
-## Tech Stack  
-React · JavaScript · TypeScript · Redux · Firebase · Material UI · Git · HTML · CSS · REST APIs  
+✨ I care deeply about user experience, modular design, and crafting elegant UIs that feel intuitive and inclusive.  
+🎯 Currently improving my portfolio, exploring Context API, WebSockets, and expanding my skills while balancing entrepreneurial projects in aromatherapy and wellness.
 
-## Contact  
-- Email: maitepv87@gmail.com  
-- LinkedIn: [Maité Pérez Vento](https://www.linkedin.com/in/maite-perez-vento)  
+---
 
-## GitHub Stats  
-![Maité's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitepv87&show_icons=true&theme=tokyonight)  
+### ⚙️ Tech Stack  
+React · Redux Toolkit · Firebase · TailwindCSS · TypeScript · Material UI · Git · HTML · CSS · REST APIs · ARIA
+
+---
+
+### 📫 Contact  
+- ✉️ Email: [maitepv87@gmail.com](mailto:maitepv87@gmail.com)  
+- 💼 LinkedIn: [Maité Pérez Vento](https://www.linkedin.com/in/maite-perez-vento)  
+- 🌐 Portfolio: In progress — crafting a modern and minimalistic collection of React projects focused on accessibility and scalability.
+
+---
+
+### 📊 GitHub Stats  
+![Maité's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitepv87&show_icons=true&theme=tokyonight)
+
