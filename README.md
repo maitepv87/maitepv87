@@ -16,7 +16,7 @@ React · Redux Toolkit · Firebase · TailwindCSS · TypeScript · Material UI �
 ### 📫 Contact  
 - ✉️ Email: [maitepv87@gmail.com](mailto:maitepv87@gmail.com)  
 - 💼 LinkedIn: [Maité Pérez Vento](https://www.linkedin.com/in/maite-perez-vento)  
-- 🌐 Portfolio: In progress — crafting a modern and minimalistic collection of React projects focused on accessibility and scalability.
+- 🌐 Portfolio: [](https://maite-perez-vento.vercel.app/).
 
 ---
 
