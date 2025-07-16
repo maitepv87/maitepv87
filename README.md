@@ -4,7 +4,7 @@ I'm a Frontend Developer focused on building clean, accessible, and modern user 
 Based in Miami, originally from Havana Cuba, with over 7 years of experience in modern frontend development and a background in software engineering since 2010.
 
 ✨ I care deeply about user experience, modular design, and crafting elegant UIs that feel intuitive and inclusive.  
-🎯 Currently improving my portfolio, WebSockets, and expanding my skills while balancing entrepreneurial projects in aromatherapy and wellness.
+🎯 Currently improving my portfolio and expanding my skills while balancing entrepreneurial projects in aromatherapy and wellness.
 
 ---
 
