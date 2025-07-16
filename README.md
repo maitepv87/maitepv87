@@ -1,9 +1,7 @@
 ## 👋 Hi, I'm Maité
 
-I'm a Frontend Developer focused on building clean, accessible, and modern user interfaces with React and scalable architecture.  
-Based in Miami, originally from Havana Cuba, with over 7 years of experience in modern frontend development and a background in software engineering since 2010.
-
-🎯 Currently improving my portfolio and expanding my skills while balancing entrepreneurial projects in aromatherapy and wellness.
+I'm a Frontend Developer based in Miami, originally from Havana, Cuba, with 7+ years building clean, accessible, and scalable user interfaces using React. My background in software engineering dates back to 2010. 
+🎯 Currently refining my portfolio, expanding my skills, and balancing entrepreneurial projects in aromatherapy and wellness.
 
 ---
 
