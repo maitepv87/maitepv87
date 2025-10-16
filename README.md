@@ -22,15 +22,17 @@ Currently refining my portfolio, expanding my skills, and balancing entrepreneur
 - I prioritize emotional intelligence in UI design and user feedback
 - I build for scale, clarity, and commercial viability
 
-### ⚙️ Tech Stack  
+---
+
+### Tech Stack  
 React · Redux Toolkit · Firebase · TailwindCSS · TypeScript · Material UI · Git · HTML · CSS · REST APIs · ARIA
 
 ---
 
-### 📫 Contact  
-- ✉️ Email: [maitepv87@gmail.com](mailto:maitepv87@gmail.com)  
-- 💼 LinkedIn: [Maité Pérez Vento](https://www.linkedin.com/in/maite-perez-vento)  
-- 🌐 Portfolio: [https://maite-perez-vento.vercel.app/](https://maite-perez-vento.vercel.app/)
+### Contact  
+- Email: [maitepv87@gmail.com](mailto:maitepv87@gmail.com)  
+- LinkedIn: [Maité Pérez Vento](https://www.linkedin.com/in/maite-perez-vento)  
+- Portfolio: [https://maite-perez-vento.vercel.app/](https://maite-perez-vento.vercel.app/)
 
 ---
 
