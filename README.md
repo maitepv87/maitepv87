@@ -5,6 +5,23 @@ Currently refining my portfolio, expanding my skills, and balancing entrepreneur
 
 ---
 
+### What I Build
+
+- Modular React/TS systems with Redux Toolkit and async thunks
+- Emotionally intelligent UI feedback flows (`ErrorBanner`, `Notification`, `EmptyState`)
+- Onboarding-ready documentation and naming conventions
+- Strategic API integrations with fallback and error handling
+- Scalable layouts with TailwindCSS and Material UI
+
+---
+
+### How I Work
+
+- Every component is documented and editorially named for onboarding clarity
+- I debug collaboratively and document every fix for future teachability
+- I prioritize emotional intelligence in UI design and user feedback
+- I build for scale, clarity, and commercial viability
+
 ### ⚙️ Tech Stack  
 React · Redux Toolkit · Firebase · TailwindCSS · TypeScript · Material UI · Git · HTML · CSS · REST APIs · ARIA
 
