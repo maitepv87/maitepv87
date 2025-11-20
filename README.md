@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Maité
 
-I'm a Frontend Developer based in Miami, originally from Havana, Cuba. My background in software engineering dates back to 2010. 
-Currently refining my portfolio, expanding my skills, and balancing entrepreneurial projects in aromatherapy and wellness.
+I’m a Frontend Developer based in Miami, originally from Havana, Cuba. I’ve been working in software engineering since 2010. Currently, I’m refining my portfolio, expanding my skills, and pursuing entrepreneurial projects in aromatherapy and wellness.
 
 ---
 
