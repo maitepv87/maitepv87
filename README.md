@@ -23,9 +23,11 @@ I’m a Frontend Engineer based in Miami, originally from Havana, Cuba. I’ve b
 
 ---
 
-### Tech Stack  
-React · Redux Toolkit · TypeScript · TailwindCSS · Material UI · Git · HTML · CSS · REST APIs · Jest · React Testing Library
-Background experience: Java · SQL Server · PostgreSQL · JasperReports · Crystal Reports
+### Tech Stack
+- React · Redux Toolkit · TypeScript · TailwindCSS · Material UI  
+- Git · HTML · CSS · REST APIs · Jest · React Testing Library  
+- **Background:** Java · SQL Server · PostgreSQL · JasperReports · Crystal Reports
+
 ---
 
 ### Contact  
