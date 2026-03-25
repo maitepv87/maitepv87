@@ -1,31 +1,31 @@
 ## 👋 Hi, I'm Maité
 
-I’m a Frontend Developer based in Miami, originally from Havana, Cuba. I’ve been working in software engineering since 2010. Currently, I’m refining my portfolio, expanding my skills, and pursuing entrepreneurial projects in aromatherapy and wellness.
+I’m a Frontend Engineer based in Miami, originally from Havana, Cuba. I’ve been working in software development since 2010, with a focus on building scalable, maintainable React applications and thoughtful user experiences.
 
 ---
 
 ### What I Build
 
-- Modular React/TS systems with Redux Toolkit and async thunks
-- Emotionally intelligent UI feedback flows (`ErrorBanner`, `Notification`, `EmptyState`)
-- Onboarding-ready documentation and naming conventions
-- Strategic API integrations with fallback and error handling
-- Scalable layouts with TailwindCSS and Material UI
+- Modular React/TypeScript interfaces with Redux Toolkit
+- Clean UI systems with reusable components and clear naming conventions
+- API‑driven features with structured error handling and fallback logic
+- Scalable layouts using TailwindCSS and Material UI
+- Accessible, user‑centered flows grounded in real feedback
 
 ---
 
 ### How I Work
 
-- Every component is documented and editorially named for onboarding clarity
-- I debug collaboratively and document every fix for future teachability
-- I prioritize emotional intelligence in UI design and user feedback
-- I build for scale, clarity, and commercial viability
+- I document components and decisions to make onboarding easier
+- I debug collaboratively and leave clear traces for future maintainers
+- I prioritize clarity, reliability, and user empathy in every feature
+- I build with long‑term maintainability and team scalability in mind
 
 ---
 
 ### Tech Stack  
-React · Redux Toolkit · Firebase · TailwindCSS · TypeScript · Material UI · Git · HTML · CSS · REST APIs · ARIA
-
+React · Redux Toolkit · TypeScript · TailwindCSS · Material UI · Git · HTML · CSS · REST APIs · Jest · React Testing Library
+Background experience: Java · SQL Server · PostgreSQL · JasperReports · Crystal Reports
 ---
 
 ### Contact  
